@@ -1,0 +1,5 @@
+Credentials cache: API:C6955BD0-2534-4398-B1AE-A4F0BAF7C6D1
+        Principal: clibutti@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 23 13:02:09 2020  Nov 23 23:02:03 2020  krbtgt/42ROMA.IT@42ROMA.IT

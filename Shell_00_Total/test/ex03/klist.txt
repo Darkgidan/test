@@ -1,0 +1,5 @@
+Credentials cache: API:59AFD09C-7083-4DD3-AD32-731A492BA448
+        Principal: tcarciof@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 24 16:25:26 2020  Nov 25 02:25:26 2020  krbtgt/42ROMA.IT@42ROMA.IT
